@@ -15,13 +15,13 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: status.dandevri.es
   logoUrl: https://avatars.githubusercontent.com/u/38474638?s=200&v=4
-  name: Status
+  name: Status ▪ Danny de Vries
   theme: night
-  introTitle: "Open-source uptime monitor and status page, powered entirely by GitHub for my personal website."
+  introTitle: "Uptime monitor and status page for Danny de Vries."
   introMessage: This status page is powered by [Upptime](https://github.com/upptime/upptime).
   favicon: https://avatars.githubusercontent.com/u/38474638?s=200&v=4
   faviconSvg: https://card.dandevri.es/icon.svg
-  css: "nav { display: none; } footer { display: none; }"
+  css: "nav { display: none; } footer { display: none; } body { display: flex; justify-content: center; align-items: center; height: 97vh; background: black; color: white; }"
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
