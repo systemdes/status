@@ -16,11 +16,12 @@ status-website:
   cname: status.dandevri.es
   logoUrl: https://avatars.githubusercontent.com/u/38474638?s=200&v=4
   name: Status
-  theme: Night
+  theme: night
   introTitle: "Open-source uptime monitor and status page, powered entirely by GitHub for my personal website."
   introMessage: This status page is powered by [Upptime](https://github.com/upptime/upptime).
   favicon: https://avatars.githubusercontent.com/u/38474638?s=200&v=4
   faviconSvg: https://card.dandevri.es/icon.svg
+  css: "nav { display: none; } footer { display: none; }"
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
