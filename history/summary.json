@@ -4,7 +4,7 @@
     "url": "https://dandevri.es",
     "icon": "https://favicons.githubusercontent.com/dandevri.es",
     "slug": "personal-website",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -15,7 +15,9 @@
     "timeWeek": 776,
     "timeMonth": 776,
     "timeYear": 776,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-02-28": 0
+    }
   },
   {
     "name": "Digital Business Card",
